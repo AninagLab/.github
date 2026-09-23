@@ -10,4 +10,4 @@ implementations, reproductions, and notes on what breaks and why.
 
 ---
 
-**Currently working on:** 2D grid environments and self-play reinforcement learning.
+**Currently working on:** self-play reinforcement learning.
