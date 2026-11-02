@@ -1,10 +1,17 @@
-# aninag
+# AninagLab
 
-Reinforcement learning research. Rediscovering RL from the ground up —
-implementations, reproductions, and notes on what breaks and why.
+*Exploring Emergent Intelligence and Autonomous Discovery*
 
-*aninag* — Tagalog, to be seen faintly through something.
+### Vision
 
----
+To advance artificial intelligence capable of discovering new knowledge, strategies, and solutions beyond those explicitly conceived by humans.
 
-**Currently working on:** 2D grid environments and self-play reinforcement learning.
+### Mission
+
+To investigate how intelligence and discovery emerge through learning, exploration, reasoning, and interaction, developing artificial systems capable of uncovering novel and verifiable insights.
+
+### Research Philosophy
+
+We believe the potential of artificial intelligence lies not merely in reproducing existing knowledge, but in exploring what remains unknown.
+
+We pursue curiosity-driven, experimental research, remaining open to different computational approaches and following the evidence wherever it leads.
